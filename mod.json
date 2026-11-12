@@ -3,7 +3,7 @@
 	"description" : "Allows the hero to summon creatures from town garrisons.",
 	"author" : "George King, graphics by Ben Yan",
 	"contact" : "https://discord.gg/chBT42V",
-	"version" : "1.2",
+	"version" : "1.3",
 	"modType" : "Spells",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -11,6 +11,9 @@
 		"min" : "1.7.4"
 	},
 	"changelog" : {
+		"1.3" : [
+			"Updated to VCMI 1.8 format"
+		],
 		"1.2" : [
 			"Added strings for spell block when visiting town"
 		],
